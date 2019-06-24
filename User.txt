@@ -1,0 +1,22 @@
+[
+  {
+    "username": "min0",
+    "password": "123"
+  },
+  {
+    "username": "min1",
+    "password": "123"
+  },
+  {
+    "username": "min2",
+    "password": "123"
+  },
+  {
+    "username": "min3",
+    "password": "123"
+  },
+  {
+    "username": "min4",
+    "password": "123"
+  }
+]
